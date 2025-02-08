@@ -42,6 +42,7 @@ npm run start
   
 **OJO:** Si decides verla en local, debes ejecutar la aplicacion, siguiendo los pasos anteriormente descritos.
 
+
 * * *
 
 ## ✅ Buenas Prácticas
