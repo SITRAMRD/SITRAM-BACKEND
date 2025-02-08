@@ -1,6 +1,6 @@
 # 🚀 Backend de **SITRAMRD**
 
-Bienvenido al backend de **\[Nombre del Proyecto\]**, una API robusta desarrollada con **Node.js**, **Express** y **MongoDB**. Este servidor maneja la lógica de negocio, autenticación y gestión de datos.
+Bienvenido al backend de **SITRAMRD**, una API robusta desarrollada con **Node.js**, **Express** y **MongoDB**. Este servidor maneja la lógica de negocio, autenticación y gestión de datos.
 
 * * *
 
@@ -35,8 +35,13 @@ npm run dev
 npm run start
 ```
 * * *
-## </> Documentacion de la API
-Para ver la documentacion de la API, ir a /docs en [local](#http://localhost:3001/docs) y en la [API desplegada](#xerothermic-marnie-davieldev-03f05cd9.koyeb.app/docs)
+## </> Documentacion
+### Para ver la documentación:  
+[En local](http://localhost:3001/docs)  
+[API desplagada](https://xerothermic-marnie-davieldev-03f05cd9.koyeb.app/docs)  
+  
+**OJO:** Si decides verla en local, debes ejecutar la aplicacion, siguiendo los pasos anteriormente descritos.
+
 
 * * *
 
