@@ -34,7 +34,9 @@ npm run dev
 ```bash
 npm run start
 ```
-  
+* * *
+## </> Documentacion de la API
+Para ver la documentacion de la API, ir a /docs en [local](#http://localhost:3001/docs) y en la [API desplegada](#xerothermic-marnie-davieldev-03f05cd9.koyeb.app/docs)
 
 * * *
 
