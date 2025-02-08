@@ -4,7 +4,7 @@
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
-        "dev": "node index.js"
+        "dev": "nodemon index.js"
     },
     "keywords": [],
     "author": "",
@@ -18,6 +18,11 @@
         "mongodb": "^6.13.0",
         "mongoose": "^8.10.0",
         "path": "^0.12.7",
-        "sitramrd-backend": "file:"
+        "sitramrd-backend": "file:",
+        "swagger-jsdoc": "^6.2.8",
+        "swagger-ui-express": "^5.0.1"
+    },
+    "devDependencies": {
+        "nodemon": "^3.1.9"
     }
 }
